@@ -1,0 +1,2 @@
+link para download do git https://git-scm.com/downloads
+o link get e um terminal para o consumo do git 
